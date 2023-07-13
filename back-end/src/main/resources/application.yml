@@ -4,8 +4,8 @@ spring:
   # DataSource Config
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    username: root
-    password: 20230625x
+    username: ****
+    password: ****
     url: jdbc:mysql://localhost:3306/xyl
   # session 失效时间
   session:
